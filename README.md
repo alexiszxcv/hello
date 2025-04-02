@@ -13,8 +13,10 @@ I have created a simple React.js interface that displays the text "Hello, World!
 1. Clone or download this repository.
 2. Open a terminal and navigate to the project folder.
 3. Run the following command to install dependencies:
-   ```bash
    npm install
+4.Start the development server:
+   npm start
+5. Open your browser and navigate to http://localhost:3000 to view the interface.
 
 ## Outcome
 The application displays "Hello, World!" on the screen.
